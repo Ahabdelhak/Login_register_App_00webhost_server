@@ -1,6 +1,6 @@
-<h1> Login_register_App_00webhost_server </h1>
+<h1> Login_register_App </h1>
  Register and login Activities with full backend using php , files uploaded in 00webhost server.. <br>
-
+<br>
 Steps to Run App : <br>
 1-download php files. <br>
 2-open db_connect file and edit DB_USER, DB_PASSWORD, DB_DATABASE, DB_SERVER. <br>
